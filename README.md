@@ -1,2 +1,2 @@
-# Painter
-practice js with painter
+# painter-with-JS
+Painting board made with vanilla JS
